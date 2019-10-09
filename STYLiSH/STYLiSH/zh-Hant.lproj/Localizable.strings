@@ -1,0 +1,40 @@
+/* 
+  Localization.strings
+  STYLiSH
+
+  Created by Sylvia Jia Fen  on 2019/7/31.
+  Copyright © 2019 Sylvia Jia Fen . All rights reserved.
+*/
+
+"myOrder" = "我的訂單";
+"moreService" = "更多服務";
+"waitToPay" = "待付款";
+"waitToShip" = "待出貨";
+"waitToSign" = "待簽收";
+"waitToEvaluate" = "待評價";
+"return" = "退換貨";
+
+"collection" = "收藏";
+"notice" = "貨到通知";
+"refund" = "帳戶退款";
+"address" = "地址";
+"message" = "客服訊息";
+"feedBack" = "系統回饋";
+"phoneBind" = "手機綁定";
+"setting" = "設定";
+
+"stock: " = "庫存: ";
+
+"total" = "總計";
+"item" = "樣商品";
+
+"creditCardPay" = "信用卡付款";
+"deliveryPay" = "貨到付款";
+
+"請輸入完整收件資訊" = "請輸入完整收件資訊";
+"登入失敗" = "登入失敗";
+"登入成功" = "登入成功";
+
+"結帳商品" = "結帳商品";
+"收件資訊" = "收件資訊";
+"付款詳情" = "付款詳情";

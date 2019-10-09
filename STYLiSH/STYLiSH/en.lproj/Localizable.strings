@@ -1,0 +1,40 @@
+/* 
+  Localization.strings
+  STYLiSH
+
+  Created by Sylvia Jia Fen  on 2019/7/31.
+  Copyright © 2019 Sylvia Jia Fen . All rights reserved.
+*/
+
+"myOrder" = "My Orders";
+"moreService" = "More Service";
+"waitToPay" =  "To pay";
+"waitToShip" = "To ship";
+"waitToSign" = "To sign";
+"waitToEvaluate" = "To evaluate";
+"return" = "Return";
+
+"collection" = "Collection";
+"notice" = "Notice";
+"refund" = "Refund";
+"address" = "Address";
+"message" = "Message";
+"feedBack" = "Feed Back";
+"phoneBind" = "Phone Bind";
+"setting" = "Setting";
+
+"stock: " = "stock: ";
+
+"total" = "Total";
+"item" = "items";
+
+"信用卡付款" = "Pay With Credit Card";
+"貨到付款" = "Cash On Delivery";
+
+"請輸入完整收件資訊" = "Please input delivery information";
+"登入失敗" = "login failed";
+"登入成功" = "login succeeded";
+
+"結帳商品" = "Cart Items";
+"收件資訊" = "Delivery Information";
+"付款詳情" = "Payment";

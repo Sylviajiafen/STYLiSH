@@ -1,0 +1,213 @@
+
+/* Class = "UILabel"; text = "內容"; ObjectID = "0V1-pF-gue"; */
+"0V1-pF-gue.text" = "內容";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "0jB-ww-Cts"; */
+"0jB-ww-Cts.title" = "Item";
+
+/* Class = "UILabel"; text = "NT$"; ObjectID = "24Y-kX-3Ew"; */
+"24Y-kX-3Ew.text" = "NT$";
+
+/* Class = "UIButton"; highlightedTitle = "男裝"; ObjectID = "3II-fH-Kje"; */
+"3II-fH-Kje.highlightedTitle" = "男裝";
+
+/* Class = "UIButton"; normalTitle = "男裝"; ObjectID = "3II-fH-Kje"; */
+"3II-fH-Kje.normalTitle" = "男裝";
+
+/* Class = "UIButton"; selectedTitle = "男裝"; ObjectID = "3II-fH-Kje"; */
+"3II-fH-Kje.selectedTitle" = "男裝";
+
+/* Class = "UILabel"; text = "庫存"; ObjectID = "3el-qb-rGy"; */
+"3el-qb-rGy.text" = "庫存";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "427-kp-v3O"; */
+"427-kp-v3O.text" = "｜";
+
+/* Class = "UILabel"; text = "請先登入會員"; ObjectID = "57j-ML-bAc"; */
+"57j-ML-bAc.text" = "請先登入會員";
+
+/* Class = "UILabel"; text = "保暖又不厚重，輕柔質感新美學"; ObjectID = "5Qh-0S-P2d"; */
+"5Qh-0S-P2d.text" = "保暖又不厚重，輕柔質感新美學";
+
+/* Class = "UILabel"; text = "選擇顏色"; ObjectID = "5e8-TP-EXM"; */
+"5e8-TP-EXM.text" = "選擇顏色";
+
+/* Class = "UILabel"; text = "內容"; ObjectID = "5gK-8G-k9x"; */
+"5gK-8G-k9x.text" = "內容";
+
+/* Class = "UILabel"; text = "材質"; ObjectID = "6Tt-WA-Md0"; */
+"6Tt-WA-Md0.text" = "材質";
+
+/* Class = "UILabel"; text = "我們收到您的訂單了！將以最快的速度為您安排出貨。"; ObjectID = "7lV-IV-tC8"; */
+"7lV-IV-tC8.text" = "我們收到您的訂單了！將以最快的速度為您安排出貨。";
+
+/* Class = "UILabel"; text = "尺寸"; ObjectID = "Daj-9q-agB"; */
+"Daj-9q-agB.text" = "尺寸";
+
+/* Class = "UILabel"; text = "product description"; ObjectID = "Eev-ZC-Dkx"; */
+"Eev-ZC-Dkx.text" = "product description";
+
+/* Class = "UILabel"; text = "庫存:  N"; ObjectID = "EkZ-go-Q3Z"; */
+"EkZ-go-Q3Z.text" = "庫存:  N";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "G11-Hd-Ps8"; */
+"G11-Hd-Ps8.normalTitle" = "加入購物車";
+
+/* Class = "UIButton"; normalTitle = "加入購物車"; ObjectID = "G32-hw-7gN"; */
+"G32-hw-7gN.normalTitle" = "加入購物車";
+
+/* Class = "UILabel"; text = "內容"; ObjectID = "H3A-0c-iVq"; */
+"H3A-0c-iVq.text" = "內容";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "IZu-kY-uRh"; */
+"IZu-kY-uRh.text" = "S";
+
+/* Class = "UILabel"; text = "S"; ObjectID = "J6b-x8-zgc"; */
+"J6b-x8-zgc.text" = "S";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "Jgf-VS-QBa"; */
+"Jgf-VS-QBa.text" = "｜";
+
+/* Class = "UIButton"; highlightedTitle = "配件"; ObjectID = "Nee-UB-Oa4"; */
+"Nee-UB-Oa4.highlightedTitle" = "配件";
+
+/* Class = "UIButton"; normalTitle = "配件"; ObjectID = "Nee-UB-Oa4"; */
+"Nee-UB-Oa4.normalTitle" = "配件";
+
+/* Class = "UIButton"; selectedTitle = "配件"; ObjectID = "Nee-UB-Oa4"; */
+"Nee-UB-Oa4.selectedTitle" = "配件";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "Oft-tS-Obx"; */
+"Oft-tS-Obx.text" = "｜";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "Q25-kt-iVI"; */
+"Q25-kt-iVI.text" = "品名";
+
+/* Class = "UILabel"; text = "內容"; ObjectID = "Q40-4B-edX"; */
+"Q40-4B-edX.text" = "內容";
+
+/* Class = "UILabel"; text = "選擇尺寸"; ObjectID = "QhJ-Ku-n4J"; */
+"QhJ-Ku-n4J.text" = "選擇尺寸";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "QvI-of-0Bo"; */
+"QvI-of-0Bo.text" = "品名";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RKZ-rN-a7f"; */
+"RKZ-rN-a7f.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "厚實毛呢格子外套"; ObjectID = "RN9-MY-Stu"; */
+"RN9-MY-Stu.text" = "厚實毛呢格子外套";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Rn7-fN-6jU"; */
+"Rn7-fN-6jU.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rrc-jO-PNP"; */
+"Rrc-jO-PNP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "選擇數量"; ObjectID = "S50-SP-Q95"; */
+"S50-SP-Q95.text" = "選擇數量";
+
+/* Class = "UILabel"; text = "型錄"; ObjectID = "SLM-6N-6d6"; */
+"SLM-6N-6d6.text" = "型錄";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "UMP-Tz-1xT"; */
+"UMP-Tz-1xT.text" = "｜";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "Vsx-K7-Sfg"; */
+"Vsx-K7-Sfg.text" = "｜";
+
+/* Class = "UIButton"; normalTitle = "移除"; ObjectID = "YSJ-js-IwP"; */
+"YSJ-js-IwP.normalTitle" = "移除";
+
+/* Class = "UILabel"; text = "洗滌"; ObjectID = "Ynh-4M-MM5"; */
+"Ynh-4M-MM5.text" = "洗滌";
+
+/* Class = "UIButton"; highlightedTitle = "女裝"; ObjectID = "ZFW-dT-Nf5"; */
+"ZFW-dT-Nf5.highlightedTitle" = "女裝";
+
+/* Class = "UIButton"; normalTitle = "女裝"; ObjectID = "ZFW-dT-Nf5"; */
+"ZFW-dT-Nf5.normalTitle" = "女裝";
+
+/* Class = "UIButton"; selectedTitle = "女裝"; ObjectID = "ZFW-dT-Nf5"; */
+"ZFW-dT-Nf5.selectedTitle" = "女裝";
+
+/* Class = "UIButton"; normalTitle = "Facebook 登入"; ObjectID = "ZGe-wg-55k"; */
+"ZGe-wg-55k.normalTitle" = "Facebook 登入";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "ckd-Lc-biA"; */
+"ckd-Lc-biA.text" = "｜";
+
+/* Class = "UIButton"; normalTitle = "再去逛逛"; ObjectID = "cnd-Pu-pUY"; */
+"cnd-Pu-pUY.normalTitle" = "再去逛逛";
+
+/* Class = "UILabel"; text = "產品id"; ObjectID = "d4Y-30-khX"; */
+"d4Y-30-khX.text" = "產品id";
+
+/* Class = "UILabel"; text = "NT$ 價格"; ObjectID = "dfx-S8-uoC"; */
+"dfx-S8-uoC.text" = "NT$ 價格";
+
+/* Class = "UILabel"; text = "結帳結果"; ObjectID = "eJe-t5-sYj"; */
+"eJe-t5-sYj.text" = "結帳結果";
+
+/* Class = "UILabel"; text = "NT$ 價格"; ObjectID = "esE-BN-XC4"; */
+"esE-BN-XC4.text" = "NT$ 價格";
+
+/* Class = "UILabel"; text = "羊毛粗織長版毛衣"; ObjectID = "gI5-iu-Y1Z"; */
+"gI5-iu-Y1Z.text" = "羊毛粗織長版毛衣";
+
+/* Class = "UILabel"; text = "內容"; ObjectID = "gZS-fi-RvK"; */
+"gZS-fi-RvK.text" = "內容";
+
+/* Class = "UILabel"; text = "購物車"; ObjectID = "gtF-0C-isa"; */
+"gtF-0C-isa.text" = "購物車";
+
+/* Class = "UILabel"; text = "產地"; ObjectID = "gvR-td-wii"; */
+"gvR-td-wii.text" = "產地";
+
+/* Class = "UILabel"; text = "內容"; ObjectID = "hZJ-MZ-KIE"; */
+"hZJ-MZ-KIE.text" = "內容";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "k1F-4P-1gd"; */
+"k1F-4P-1gd.text" = "｜";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "m0N-e3-eGK"; */
+"m0N-e3-eGK.text" = "品名";
+
+/* Class = "UILabel"; text = "高抗寒素材選用，保暖也時尚有型"; ObjectID = "m6v-ld-NTo"; */
+"m6v-ld-NTo.text" = "高抗寒素材選用，保暖也時尚有型";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "mAS-Bc-0nY"; */
+"mAS-Bc-0nY.text" = "品名";
+
+/* Class = "UILabel"; text = "顏色"; ObjectID = "nJE-1m-RbW"; */
+"nJE-1m-RbW.text" = "顏色";
+
+/* Class = "UILabel"; text = "｜"; ObjectID = "o74-c6-Qq1"; */
+"o74-c6-Qq1.text" = "｜";
+
+/* Class = "UIButton"; normalTitle = "前往結帳"; ObjectID = "reh-du-WaV"; */
+"reh-du-WaV.normalTitle" = "前往結帳";
+
+/* Class = "UILabel"; text = "NT$ 價格"; ObjectID = "rgu-RD-Aru"; */
+"rgu-RD-Aru.text" = "NT$ 價格";
+
+/* Class = "UILabel"; text = "品名"; ObjectID = "rhX-K2-3bu"; */
+"rhX-K2-3bu.text" = "品名";
+
+/* Class = "UILabel"; text = "登入會員後即可完成結帳。"; ObjectID = "ruY-Vq-E0q"; */
+"ruY-Vq-E0q.text" = "登入會員後即可完成結帳。";
+
+/* Class = "UILabel"; text = "備註"; ObjectID = "tBA-pB-kgz"; */
+"tBA-pB-kgz.text" = "備註";
+
+/* Class = "UIButton"; normalTitle = "付款"; ObjectID = "tDR-eN-VDs"; */
+"tDR-eN-VDs.normalTitle" = "付款";
+
+/* Class = "UILabel"; text = "結帳"; ObjectID = "vLs-Jm-piV"; */
+"vLs-Jm-piV.text" = "結帳";
+
+/* Class = "UILabel"; text = "價格"; ObjectID = "vOa-Qq-02n"; */
+"vOa-Qq-02n.text" = "價格";
+
+/* Class = "UILabel"; text = "結帳成功"; ObjectID = "xGF-Xu-oYu"; */
+"xGF-Xu-oYu.text" = "結帳成功";
