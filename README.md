@@ -11,4 +11,4 @@
     * Badge value 顯示購物車品項數量
  * 多國語系（中文及英文）
  
- ![GitHub]https://github.com/Sylviajiafen/STYLiSH/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-10-12%20at%2017.33.03.png
+ ![GITHUB]https://github.com/Sylviajiafen/STYLiSH/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202019-10-12%20at%2017.33.03.png
