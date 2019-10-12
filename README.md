@@ -10,9 +10,12 @@
     * 可以選擇貨到付款或信用卡結帳（利用 TapPay SDK 導入信用卡結帳頁面）
     * Badge value 顯示購物車品項數量
  * 多國語系（中文及英文）
-    
+ 
+# 
+
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/STYLiSH_01.gif)
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/STYLiSH_02.gif)
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/STYLiSH_03.gif)
-     
+
+# 
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/IMG_5452.png)
