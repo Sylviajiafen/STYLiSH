@@ -11,7 +11,7 @@
     * Badge value 顯示購物車品項數量
  * 多國語系（中文及英文）
 
-![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/IMG_5452.png)
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/STYLiSH_01.gif)
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/STYLiSH_02.gif)
 ![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/STYLiSH_03.gif)
+![GITHUB](https://github.com/Sylviajiafen/STYLiSH/blob/master/IMG_5452.png)
